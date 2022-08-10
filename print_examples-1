@@ -1,0 +1,7 @@
+print('Dima')
+print('Иваново')
+print("I am learning the programming language Python")
+print(2020)
+print(2+2)
+print('10.07.2022')
+print("изменяя мир \nвнутри или во вне \nя ни когда не изменял себе")
